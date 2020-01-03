@@ -1,2 +1,2 @@
 # SyntheticSpeechDataGenerator
-Generate a synthetic dataset of Speech so as to train DeepSpeech
+Generate a synthetic speech dataset (using Google TTS, Amazon Polly) so as to train DeepSpeech
